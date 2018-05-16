@@ -5,4 +5,4 @@ function balikString(namaYgMauDibalik){
 }
 return result
 }
-console.log(balikNama('hello world'))
+console.log(balikString('hello world'))
